@@ -1,23 +1,26 @@
 # Repository for CPE 322
 
-**Repository for CPE 322 - Assignment 0**
+**Repository for CPE 322 - Engineering Design VI**
 
-*Italicized Text*
+*Brandon Yen*
 
-> Block Quote
+> Here are some of my projects!
 
-1. Ordered List Item 1
-2. Ordered List Item 2
-3. Ordered List Item 3
+- [Photobooth App](https://github.com/brandonyen/photobooth)
+- [FPGA Piano](https://github.com/brandonyen/fpga_piano)
+- [Company Bankruptcy Prediction](https://github.com/brandonyen/company-bankruptcy-prediction)
+- [CPE 487 SystemVerilog Translation](https://github.com/brandonyen/Nexys-A7-SystemVerilog)
 
-- Unordered List Item 1
-- Unordered List Item 2
-- Unordered List Item 3
+> Assignments
 
-`Code`
+1. Assignment 1
+2. Assignment 2
+3. Assignment 3
+
+`Sample code`
 
 ---
 
-[Link](https://www.stevens.edu/)
+[Brandon's GitHub](https://www.github.com/brandonyen)
 
 ![Image](images.jpeg)
