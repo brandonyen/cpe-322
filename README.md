@@ -18,6 +18,6 @@
 
 ---
 
-[Link](https://www.stevens.edu/)
+[Group Site Link](https://sites.google.com/stevens.edu/thebestdesign6group/home)
 
 ![Image](images.jpeg)
