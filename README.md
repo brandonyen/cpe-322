@@ -2,7 +2,7 @@
 
 **Repository for CPE 322 - Engineering Design VI**
 
-*Brandon Yen*
+_Brandon Yen_
 
 > Here are some of my projects!
 
@@ -11,9 +11,9 @@
 - [Company Bankruptcy Prediction](https://github.com/brandonyen/company-bankruptcy-prediction)
 - [CPE 487 SystemVerilog Translation](https://github.com/brandonyen/Nexys-A7-SystemVerilog)
 
-> Assignments
+> Labs
 
-1. Assignment 1
+1. [Lab 1](https://github.com/brandonyen/cpe-322/lab_1)
 2. Assignment 2
 3. Assignment 3
 
