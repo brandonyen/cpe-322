@@ -13,7 +13,7 @@ _Brandon Yen_
 
 > Labs
 
-1. [Lab 1](https://github.com/brandonyen/cpe-322/lab_1)
+1. [Lab 1](https://github.com/brandonyen/cpe-322/tree/main/lab_1)
 2. Assignment 2
 3. Assignment 3
 
