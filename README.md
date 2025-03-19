@@ -14,8 +14,8 @@ _Brandon Yen_
 > Labs
 
 1. [Lab 1](https://github.com/brandonyen/cpe-322/tree/main/lab_1)
-2. Assignment 2
-3. Assignment 3
+2. [Lab 2](https://github.com/brandonyen/cpe-322/tree/main/lab_2)
+3. [Lab 3](https://github.com/brandonyen/cpe-322/tree/main/lab_3)
 
 `print("Hello, World!")`
 
