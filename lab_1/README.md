@@ -72,8 +72,10 @@ endmodule
 ```
 
 This results in the following output:
+<img width="1389" alt="Screenshot 2025-03-18 at 9 53 05 PM" src="https://github.com/user-attachments/assets/465659cf-4c6d-4af7-b3f3-8a18bf9bfe46" />
 
 And the following statement is printed:
+<img width="342" alt="Screenshot 2025-03-18 at 9 53 59 PM" src="https://github.com/user-attachments/assets/9c18296a-d30a-49a4-b34b-3a1c2ac22319" />
 
 ## T-Flip-Flop
 
@@ -134,3 +136,6 @@ module t_ff_tb;
   end
 endmodule
 ```
+
+This results in the following output:
+<img width="1390" alt="Screenshot 2025-03-18 at 9 54 28 PM" src="https://github.com/user-attachments/assets/ca357208-9fac-471f-ad22-31949f658286" />
