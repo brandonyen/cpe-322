@@ -13,9 +13,7 @@ _Brandon Yen_
 
 > Labs
 
-1. [Lab 1](https://github.com/brandonyen/cpe-322/tree/main/lab_1)
-2. [Lab 2](https://github.com/brandonyen/cpe-322/tree/main/lab_2)
-3. [Lab 3](https://github.com/brandonyen/cpe-322/tree/main/lab_3)
+1. [Lab Project](https://github.com/brandonyen/cpe-322/tree/main/labs/scout-gg)
 
 `print("Hello, World!")`
 
