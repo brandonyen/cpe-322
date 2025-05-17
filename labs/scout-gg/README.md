@@ -2,6 +2,8 @@
 
 This project showcases a League of Legends profile scouter similar to sites like op.gg or u.gg. By entering a username and tagline, you can get information about the summoner profile and the most recent games:
 
+<img width="1433" alt="Screenshot 2025-05-05 at 3 51 26 PM" src="https://github.com/user-attachments/assets/f036b11a-baa5-4c16-b3e4-896456f73fe2" />
+
 To run the project, first clone the repository to your local machine.
 
 Install required dependencies with
